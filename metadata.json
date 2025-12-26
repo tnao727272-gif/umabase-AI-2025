@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Umabase AI: Paddock Analyst Pro",
+  "description": "A high-performance horse racing prediction dashboard that combines statistical data with AI-powered vision analysis of paddock conditions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
